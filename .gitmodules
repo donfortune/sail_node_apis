@@ -1,0 +1,6 @@
+[submodule "ngo_expense_tracker"]
+	path = ngo_expense_tracker
+	url = https://github.com/donfortune/node_ngo_expense_tracker.git
+[submodule "lib_api"]
+	path = lib_api
+	url = https://github.com/donfortune/node_lib.git
