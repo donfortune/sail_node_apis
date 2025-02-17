@@ -4,3 +4,6 @@
 [submodule "lib_api"]
 	path = lib_api
 	url = https://github.com/donfortune/node_lib.git
+[submodule "movie_detail_api"]
+	path = movie_detail_api
+	url = https://github.com/donfortune/movie_detailing_apis.git
