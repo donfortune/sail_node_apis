@@ -7,3 +7,6 @@
 [submodule "movie_detail_api"]
 	path = movie_detail_api
 	url = https://github.com/donfortune/movie_detailing_apis.git
+[submodule "dating_api"]
+	path = dating_api
+	url = https://github.com/donfortune/dating_app_api.git
