@@ -10,3 +10,6 @@
 [submodule "dating_api"]
 	path = dating_api
 	url = https://github.com/donfortune/dating_app_api.git
+[submodule "fitness_tracker_api"]
+	path = fitness_tracker_api
+	url = https://github.com/donfortune/fitness_tracker_api.git
