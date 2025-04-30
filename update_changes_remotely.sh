@@ -3,7 +3,7 @@
 # Update submodules
 git submodule update --remote
 
-# Add changes
+
 git add .
 
 # Commit with a message
